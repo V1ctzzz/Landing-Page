@@ -1,4 +1,4 @@
-# MEU PORTFOLIO
+# Seja Bem-vindo ao meu portfolio!!! 🐱‍👤
 
 Este é um projeto de portfólio pessoal desenvolvido para exibir minhas habilidades, projetos e experiências como desenvolvedor. O objetivo é demonstrar proficiência em HTML, CSS e JavaScript, criando uma interface intuitiva e atraente para visitantes e potenciais empregadores.
 
